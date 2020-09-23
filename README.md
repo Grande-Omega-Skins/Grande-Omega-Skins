@@ -54,7 +54,7 @@ Before continuing, make sure you've completed all the steps in [Requirements Ins
 
 To change skin, restore the [resource](#resource-folder-locations) folder from the copy you made and repeat the installation steps.
 
-You can restore Grande Omega's original files by extracting the contents of the [restore](/restore) folder to your [resource](#resource-folder-locations) folder.
+You can restore Grande Omega's original files by extracting the contents of the [Template](https://github.com/Grande-Omega-Skins/template-skin/tree/master/dist) repo to your [resource](#resource-folder-locations) folder.
 
 ---
 
