@@ -14,8 +14,6 @@ This is a collection of unofficial skins for Grande Omega. It modifies and adds 
 
 These skins are maintained by the Grande Omega Skins project. And receive regular updates.
 
--   [Template Skin - Grande Omega](https://github.com/Grande-Omega-Skins/template-skin)
-
 -   [Fox Dark - Foxxite](https://github.com/Grande-Omega-Skins/Fox-Dark)
 
 -   [Wumpus Dark - VAC Efron](https://github.com/Grande-Omega-Skins/Wumpus-Dark)
@@ -43,6 +41,8 @@ These skins are maintained by the Grande Omega Skins project. And receive regula
 ## Skin Installation
 
 Before continuing, make sure you've completed all the steps in [Requirements Installation](#requirements-installation).
+
+**Note:** Your skin might have a different installation process. Please check the README.md of the skin before continuing.  
 
 1. Find a skin you want to use, see the skins supported by us above.
 
