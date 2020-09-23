@@ -52,6 +52,8 @@ These skins are maintained by the Grande Omega Skins project. And receive regula
 
 To change skin, restore the [resource](#resource-folder-locations) folder from the copy you made and repeat the installation steps.
 
+You can restore Grande Omega's original files by extracting the contents of the [restore](/restore) folder to your [resource](#resource-folder-locations) folder.
+
 ---
 
 ## Contributing
