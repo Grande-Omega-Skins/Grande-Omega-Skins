@@ -12,7 +12,7 @@ This is a collection of unofficial skins for Grande Omega. It modifies and adds 
 
 ## Unofficial Official Skins
 
-These skins are maintained by the Grande Omega Skins project. And receive regular updates.
+These skins are maintained by the Grande Omega Skins project and receive regular updates.
 
 -   [Fox Dark - Foxxite](https://github.com/Grande-Omega-Skins/Fox-Dark)
 
