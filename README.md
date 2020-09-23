@@ -16,7 +16,7 @@ These skins are maintained by the Grande Omega Skins project. And receive regula
 
 -   [Template Skin - Grande Omega](https://github.com/Grande-Omega-Skins/template-skin)
 
--   Fox Dark - Foxxite
+-   [Fox Dark - Foxxite](https://github.com/Grande-Omega-Skins/Fox-Dark)
 
 -   [Wumpus Dark - VAC Efron](https://github.com/Grande-Omega-Skins/Wumpus-Dark)
 
