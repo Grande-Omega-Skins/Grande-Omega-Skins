@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# (HR) Grande Omega Skins
+# Grande Omega Skins
 
 This is a collection of unofficial skins for Grande Omega. It modifies and adds some files to make Grande Omega appear in your prefered skin.
 
@@ -13,8 +13,6 @@ This is a collection of unofficial skins for Grande Omega. It modifies and adds 
 ## Unofficial Official Skins
 
 These skins are maintained by the Grande Omega Skins project. And receive regular updates.
-
--   [Template Skin - Grande Omega](https://github.com/Grande-Omega-Skins/template-skin)
 
 -   [Fox Dark - Foxxite](https://github.com/Grande-Omega-Skins/Fox-Dark)
 
@@ -34,25 +32,29 @@ These skins are maintained by the Grande Omega Skins project. And receive regula
 
 1. Download this repo with the "**↓** Code" button and select the ZIP file.
 
-2. Make a **copy** of the resource folder so that you can restore it if needed.
+2. Make a **copy** of the [resource](#resource-folder-locations) folder so that you can restore it if needed.
 
-3. Place the contents of the `dist` folder inside the `[resource folder]`.
+3. Place the contents of the `dist` folder inside the [resource](#resource-folder-locations) folder.
 
 ---
 
 ## Skin Installation
 
+Before continuing, make sure you've completed all the steps in [Requirements Installation](#requirements-installation).
+
+**Note:** Your skin might have a different installation process. Please check the README.md of the skin before continuing.  
+
 1. Find a skin you want to use, see the skins supported by us above.
 
 2. Download the latest release for that skin, see the release section on the right on the repo of that skin.
 
-3. Follow the installation instructions of that skin.
-
-    - Default installation; extract the contents of `skin-name/dist` of your chosen skin **on top** of your `resource` folder.
+3. Extract the contents of `skin-name/dist` of your chosen skin **on top** of your [resource](#resource-folder-locations) folder.
 
 4. Replace the files you're asked to replace. Next time you start Grande Omega it should appear in your chosen skin.
 
-To change skin, restore the resource folder from the copy you made and repeat the installation steps.
+To change skin, restore the [resource](#resource-folder-locations) folder from the copy you made and repeat the installation steps.
+
+You can restore Grande Omega's original files by extracting the contents of the [restore](/restore) folder to your [resource](#resource-folder-locations) folder.
 
 ---
 
@@ -88,7 +90,7 @@ To change skin, restore the resource folder from the copy you made and repeat th
 
 6. Remove all unused themes from `wwwroot/themes`.
 
-7. Add a **ReadMe.md** file that;
+7. Add a **README.md** file that;
 
     1. Links back to this repo for instructions.
     2. Include a description for your skin.
