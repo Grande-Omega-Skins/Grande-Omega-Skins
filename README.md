@@ -42,6 +42,8 @@ These skins are maintained by the Grande Omega Skins project. And receive regula
 
 ## Skin Installation
 
+Before continuing, make sure you've completed all the steps in [Requirements Installation](#requirements-installation).
+
 1. Find a skin you want to use, see the skins supported by us above.
 
 2. Download the latest release for that skin, see the release section on the right on the repo of that skin.
