@@ -18,6 +18,8 @@ These skins are maintained by the Grande Omega Skins project and receive regular
 
 -   [Wumpus Dark - VAC Efron](https://github.com/Grande-Omega-Skins/Wumpus-Dark)
 
+-   [Midnight Jam - HoroChan](https://github.com/Grande-Omega-Skins/Midnight-Jam)
+
 ---
 
 ## Resource folder locations
