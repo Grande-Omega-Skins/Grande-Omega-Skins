@@ -20,6 +20,8 @@ These skins are maintained by the Grande Omega Skins project and receive regular
 
 -   [Midnight Jam - HoroChan](https://github.com/Grande-Omega-Skins/Midnight-Jam)
 
+-   [Wumpus White - Stijn](https://github.com/Grande-Omega-Skins/Wumpus-White)
+
 ---
 
 ## Resource folder locations
