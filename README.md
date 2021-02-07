@@ -32,6 +32,20 @@ These skins are maintained by the Grande Omega Skins project and receive regular
 
 ---
 
+# Grande Omega Skin Installer
+
+**Note:** This installer is supported for Windows only.
+
+1) Create a folder named `skins` in your Grande Omega root directory.
+2) Download the Grande Omega [default files](https://github.com/Grande-Omega-Skins/default) and extract them to your `skins` folder. Make sure you name the folder `default`. [Example](https://i.vacefron.nl/g1e1y.mp4).
+3) Download your desired [skins](#unofficial-official-skins) and extract the `dist` folders to your `skins` folder. [Example](https://i.vacefron.nl/uf5xn.mp4).
+4) Download the Grande Omega [skin installer](https://github.com/Grande-Omega-Skins/skin-installer) and move `GOSkinInstaller.exe` to your Grande Omega root directory.
+5) Run `GOSkinInstaller.exe` and follow the steps.
+
+---
+
+# Manual installation
+
 ## Requirements Installation
 
 1. Download this repo with the "**↓** Code" button and select the ZIP file.
@@ -39,8 +53,6 @@ These skins are maintained by the Grande Omega Skins project and receive regular
 2. Make a **copy** of the [resource](#resource-folder-locations) folder so that you can restore it if needed.
 
 3. Place the contents of the `dist` folder inside the [resource](#resource-folder-locations) folder.
-
----
 
 ## Skin Installation
 
@@ -62,7 +74,7 @@ You can restore Grande Omega's original files by extracting the contents of the 
 
 ---
 
-## Contributing
+# Contributing
 
 1. Create a new repo based on the [Skin Template Repo](https://github.com/Grande-Omega-Skins/template-skin). See the green **Use this template** button.
 
@@ -104,30 +116,6 @@ You can restore Grande Omega's original files by extracting the contents of the 
 8. Change the skin.json file with he correct information, or the installer and/or update checker might fail (see the file structure below).
 
 ### **NOTE:** Any skins that modify the internal workings of Grande Omega will not be listed here.
-
----
-
-## Skin.JSON structure
-
-Make sure to remove the arrow comments or the JSON will not work
-
-```JSON
-{
-	"name": "", <-- skin name
-	"author": "", <-- skin author
-	"version": 1, <-- skin version
-
-	"resourceDir": "dist", <-- location of modified files, should always be this
-	"screenshotsDir": "screenshots", <-- location of screenshots
-
-	"modifiedFiles": ["index.html", "wwwroot/css/style.css"], <-- modified files as seen from resourceDir
-	"addedFiles": ["wwwroot/css/bootstrap-dark-min.css",], <-- added files as seen from resourceDir
-
-	"screenShots": ["1.png", "2.png", "3.png"] <-- screenshot files as seen from screenshotsDir
-}
-```
-
----
 
 ## Dev Tools
 
