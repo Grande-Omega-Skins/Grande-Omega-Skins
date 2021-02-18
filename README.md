@@ -34,13 +34,12 @@ These skins are maintained by the Grande Omega Skins project and receive regular
 
 # Grande Omega Skin Installer
 
-**Note:** This installer is supported for Windows only.
+**Note:** This installer is supported for Windows & the non-auto installer version of Grande Omega only.
 
-1) Create a folder named `skins` in your Grande Omega root directory.
-2) Download the Grande Omega [default files](https://github.com/Grande-Omega-Skins/default) and extract them to your `skins` folder. Make sure you name the folder `default`. [Example](https://i.vacefron.nl/g1e1y.mp4).
-3) Download your desired [skins](#unofficial-official-skins) and extract the `dist` folders to your `skins` folder. [Example](https://i.vacefron.nl/uf5xn.mp4).
-4) Download the Grande Omega [skin installer](https://github.com/Grande-Omega-Skins/skin-installer/releases) and move `GOSkinInstaller.exe` to your Grande Omega root directory.
-5) Run `GOSkinInstaller.exe` and follow the steps.
+1) Download the Grande Omega [skin installer](https://github.com/Grande-Omega-Skins/skin-installer/releases) and move `GOSkinInstaller.exe` to your Grande Omega root directory.
+2) Run `GOSkinInstaller.exe`.
+3) Click 'Download skins' to download all available Grande Omega skins automatically.
+4) Select a skin from the dropdown menu and click 'Install'. Done!
 
 ---
 
